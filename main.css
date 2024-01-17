@@ -1,0 +1,14 @@
+body{
+    font-size: 22px;
+    background-color: #313131;
+}
+input[type="text"]{
+    margin: 10px 0;
+    display: block;
+}
+#app{
+    color: antiquewhite;
+}
+[v-cloak]{
+    display: none;
+}
