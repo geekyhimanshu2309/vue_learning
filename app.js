@@ -40,7 +40,7 @@ const vm = Vue.createApp({
   }
 }).mount("#app");
 
-// setTimeout(() => {
+// setTimeout(() => {a;fdla
 //     vm.firstName = "bob";
 // },2000)
 
